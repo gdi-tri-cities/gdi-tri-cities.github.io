@@ -1,4 +1,4 @@
 TriCitiesGDI.github.io
 ======================
 
-Public profile for TriCitiesGDI
+## Public website for TriCitiesGDI
